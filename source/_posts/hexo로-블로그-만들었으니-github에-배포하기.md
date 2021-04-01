@@ -8,7 +8,7 @@ hexo로 블로그를 어제 로컬에서 띄우는걸 성공했다!
 
 그러나 실제로 올리기까지 해야 성공했다고 말할 수 있으니, 이제 배포하는 방법을 포스팅 해보자.
 
-# Hexo는 두개의 Repository가 필요하다.
+## Hexo는 두개의 Repository가 필요하다.
 
 [hexo][hexo_link]는 두개의 repository를 필요로 한다.
 static 으로 생성된 페이지가 저장되어있는 repository와 외부에서 접속할 수 있게끔 deploy 되어진 `[사용자이름].github.io` 라는 명칭의 repository 가 필요하다.
@@ -18,7 +18,7 @@ static 으로 생성된 페이지가 저장되어있는 repository와 외부에�
 
 > hexo-blog
 
-# 초기 세팅
+## 초기 세팅
 
 `npm`을 이용하여 전역으로 hexo를 설치해주자.
 

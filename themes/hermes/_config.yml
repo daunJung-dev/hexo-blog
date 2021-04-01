@@ -1,6 +1,7 @@
 menu:
+  About: about/
   Blog: /
-  GitHub: https://github.com/dkun9039
+  GitHub: "https://github.com/dkun9039"
   Archive: archives/
 #   Feed: atom.xml
 

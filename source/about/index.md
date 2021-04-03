@@ -24,7 +24,7 @@ date: 2021-04-01 21:44:47
 ### Stacks
 
 ```typescript
-type FrontSkills =
+type FrontEndSkills =
   | HTML
   | CSS
   | JAVA_SCRIPT

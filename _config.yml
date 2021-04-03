@@ -79,14 +79,14 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/alleyful/alleyful.github.io.git
+  repo: https://github.com/dkun9039/dkun9039.github.io.git
   branch : master
 
 # Nofollow
 nofollow:
   enable: true
   exclude:
-    - alleyful.github.io
+    - dkun9039.github.io
 
 ## Rss
 feed:
@@ -105,7 +105,7 @@ robotstxt:
   useragent: "*"
   allow:
     - /
-  sitemap: https://alleyful.github.io/sitemap.xml
+  sitemap: https://dkun9039.github.io/sitemap.xml
 
 # for Disqus
-disqus_shortname: Alley_Kim
+disqus_shortname: Daun Timothy

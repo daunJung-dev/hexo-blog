@@ -325,7 +325,7 @@ plugins:
   # https://analytics.google.com
   google_analytics:
     # Google Analytics tracking ID
-    tracking_id:
+    tracking_id: G-BLP45CYPLE
   # Hotjar user feedback plugin
   # https://www.hotjar.com/
   hotjar:
